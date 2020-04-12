@@ -1,6 +1,6 @@
 body
 {
-	margin: 10px 30px 30px 50px;
+	margin: 10px 50px 30px 50px;
 	width: auto;
 	/*overflow-x: hidden;*/
 	/*background-color: #03d3fc;*/
@@ -80,7 +80,7 @@ a
 
 #seconddiv p
 {
-	width: auto;
+	width: 60%;
 	margin-left: 52%;
 	font-weight: normal;
 	padding-right: 10px;
