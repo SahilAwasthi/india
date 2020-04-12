@@ -1,8 +1,8 @@
 body
 {
-	margin: 10px 50px 30px 50px;
+	margin: 10px 30px 30px 20px;
 	width: auto;
-	/*overflow-x: hidden;*/
+	overflow-x: hidden;
 	/*background-color: #03d3fc;*/
 }
 
@@ -57,7 +57,6 @@ td
 	border: 1px solid grey;
 	float: right;
 	margin-left: 10px;
-	height: 200%;
 }
 
 a
@@ -74,8 +73,8 @@ a
 #seconddiv
 {
 	padding-top: 20px;
-	/*height: 120%;*/
-	/*display: block;*/
+	height: 120%;
+	display: block;
 }
 
 #seconddiv p
@@ -84,12 +83,6 @@ a
 	margin-left: 52%;
 	font-weight: normal;
 	padding-right: 10px;
-	/*margin-right: 50px;*/
-}
-
-#seconddiv img
-{
-	/*margin-top: 2%;*/
 }
 
 #time
